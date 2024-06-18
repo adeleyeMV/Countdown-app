@@ -1,4 +1,6 @@
 # Countdown Timer
+## Description
+A simple and intuitive Python application designed to help users manage time effectively. This countdown timer allows you to set a specific duration and alerts you when the time is up, making it perfect for study sessions, cooking, workouts, or any other timed activities.
 
 ## Contributing
 Contributions are welcome! If you’d like to add new programs, fix bugs, or improve existing code, follow these steps:
